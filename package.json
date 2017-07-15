@@ -1,0 +1,16 @@
+{
+  "name": "asciilib-workflow",
+  "version": "1.0.0",
+  "main": "search.js",
+  "bin": "search.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "pkg --targets=macos search.js"
+  },
+  "dependencies": {
+    "asciilib": "^0.3.0",
+    "pkg": "^4.1.2",
+    "rxjs": "^5.4.2",
+    "yargs": "^8.0.2"
+  }
+}
