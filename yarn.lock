@@ -62,6 +62,10 @@ asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
 
+awf@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/awf/-/awf-0.3.1.tgz#30f76b6feaabe7168c30318fc360cce98b1a4d8c"
+
 aws-sign2@~0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/aws-sign2/-/aws-sign2-0.6.0.tgz#14342dd38dbcc94d0e5b87d763cd63612c0e794f"

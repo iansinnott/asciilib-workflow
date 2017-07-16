@@ -6,7 +6,7 @@ Quickly search through silly ascii faces and kaomoji (ﾉ◕ヮ◕)ﾉ*:･ﾟ�
 
 ## Usage
 
-### (☞ﾟヮﾟ)☞ [Download](https://github.com/iansinnott/asciilib-workflow/releases/download/v1.1.0/AsciiSearch.alfredworkflow)
+### (☞ﾟヮﾟ)☞ [Download](https://github.com/iansinnott/asciilib-workflow/raw/master/AsciiSearch.alfredworkflow)
 
 After downloading, double click to install. Alfred should know what to do with it.
 
