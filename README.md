@@ -14,7 +14,7 @@
 
 Quickly search through silly ascii faces and kaomoji (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-![Ascii Search Gif](https://dropsinn.s3.amazonaws.com/Kapture%202017-07-15%20at%2016.48.25.gif)
+![Ascii Search Gif](https://dropsinn.s3.amazonaws.com/Screen%20Shot%202017-07-15%20at%205.58.31%20PM.png)
 
 ## Usage
 
