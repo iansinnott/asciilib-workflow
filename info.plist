@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>iansinnott.asciisearh</string>
+	<key>category</key>
+	<string>Internet</string>
 	<key>connections</key>
 	<dict>
-		<key>687EEFA0-6330-46CA-8449-F6016E0542FD</key>
+		<key>9B85B860-39E6-4D8F-945A-366DF67C4C6E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>F1EB9707-FA6B-4751-8881-F8824D6AF70F</string>
+				<string>DAB6AB30-F868-4E0F-A51F-046947C2EDFA</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -23,30 +25,13 @@
 	<key>createdby</key>
 	<string>Ian Sinnott</string>
 	<key>description</key>
-	<string>Search ascii art and kaomoji</string>
+	<string>Quickly search ascii art and kaomoji</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
 	<string>Ascii Search</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>autopaste</key>
-				<true/>
-				<key>clipboardtext</key>
-				<string>{query}</string>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>F1EB9707-FA6B-4751-8881-F8824D6AF70F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -79,7 +64,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Search ascii...</string>
+				<string>Search...</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -88,7 +73,24 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>687EEFA0-6330-46CA-8449-F6016E0542FD</string>
+			<string>9B85B860-39E6-4D8F-945A-366DF67C4C6E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>DAB6AB30-F868-4E0F-A51F-046947C2EDFA</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -97,19 +99,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>687EEFA0-6330-46CA-8449-F6016E0542FD</key>
+		<key>9B85B860-39E6-4D8F-945A-366DF67C4C6E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>60</integer>
+			<integer>310</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>110</integer>
 		</dict>
-		<key>F1EB9707-FA6B-4751-8881-F8824D6AF70F</key>
+		<key>DAB6AB30-F868-4E0F-A51F-046947C2EDFA</key>
 		<dict>
 			<key>xpos</key>
-			<integer>670</integer>
+			<integer>480</integer>
 			<key>ypos</key>
-			<integer>40</integer>
+			<integer>110</integer>
 		</dict>
 	</dict>
 	<key>webaddress</key>
