@@ -40,8 +40,8 @@ array-uniq@^1.0.1:
   resolved "https://registry.yarnpkg.com/array-uniq/-/array-uniq-1.0.3.tgz#af6ac877a25cc7f74e058894753858dfdb24fdb6"
 
 asciilib@^0.3.0:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/asciilib/-/asciilib-0.3.1.tgz#318ac1edd6f207b19a11bc24ad63af9afcd83b94"
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/asciilib/-/asciilib-0.3.2.tgz#8403776ad48d50f0e8e634f900c8a79514bb8133"
   dependencies:
     ramda "^0.24.1"
     rxjs "^5.4.2"
